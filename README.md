@@ -1,8 +1,8 @@
 This was a really fun exercise and a lesson to be taught, that USB keyboard keystrokes can be captured as a pcap file.
 
-Originally, I was stumped, and looked online to find this ![original_keymappper](https://medium.com/@ali.bawazeeer/kaizen-ctf-2018-reverse-engineer-usb-keystrok-from-pcap-file-2412351679f4)
+Originally, I was stumped, and looked online to find this <a href="https://medium.com/@ali.bawazeeer/kaizen-ctf-2018-reverse-engineer-usb-keystrok-from-pcap-file-2412351679f4">original keymapper</a>
 
-The original keystroke mapper was pretty shoddy and did not consider CAPITALIZED characters. A better solution I found here  ![better solution](https://bitvijays.github.io/LFC-Forensics.html)
+The original keystroke mapper was pretty shoddy and did not consider CAPITALIZED characters. A better solution I found here <a href="https://bitvijays.github.io/LFC-Forensics.html">better keymapper</a>
 
 # Solution
 
