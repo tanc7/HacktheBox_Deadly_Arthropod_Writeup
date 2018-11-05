@@ -29,6 +29,8 @@ HTB{If_It_Quack5_It'5_a_K3yb0ard...}
 
 Submit it and get your points!
 
+![](https://raw.githubusercontent.com/tanc7/HacktheBox_Deadly_Arthropod_Writeup/master/challengesolved.png)
+
 # Conclusion
 
 This was a very fun exercise and I enjoyed it, particularly how pcap file formats can be used to capture keystrokes as well.
